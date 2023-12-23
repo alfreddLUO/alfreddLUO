@@ -22,7 +22,7 @@
 📈 My github stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfreddluo&include_all_commits=true&show_icons=true&locale=en&layout=compact" alt="alfreddluo" /></p>
 
-<p> <img align="left" src="https://github-readme-stats-xwt4.vercel.app/api?username=alfreddLUO&include_all_commits=true&show_icons=true" width="586" height="211" alt="alfreddLUO" />
+<p> <img align="left" src="https://github-readme-stats-xwt4.vercel.app/api?username=alfreddLUO&include_all_commits=true&show_icons=true" width="486" height="211" alt="alfreddLUO" />
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alfreddluo&include_all_commits=true" alt="alfreddluo" height="211" /></p>
 
