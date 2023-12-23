@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alfreddluo&include_all_commits=true" alt="alfreddluo" height="211" /></p>
 
-<img align="right" alt="GIF" src="code.gif" width="286" height="211"/>
+<img align="left" alt="GIF" src="code.gif" width="286" height="211"/>
 </p>
 
