@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfreddluo&include_all_commits=true&show_icons=true&locale=en" alt="alfreddluo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfreddluo&" alt="alfreddluo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfreddluo&include_all_commits=true" alt="alfreddluo" /></p>
 
 
 
