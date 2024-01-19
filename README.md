@@ -12,7 +12,7 @@
 - My Projects:
   - [Parallel Computing System for Machine Learning Analysis  on Bike Sharing Demand Dataset](https://github.com/alfreddLUO/Parallel-Computing-on-Bike-Sharing-Demand-Dataset)
   - [Skin Cancer Classification Project](https://github.com/alfreddLUO/CS4486-Skin-Cancer-Classification-Project)
-  - [Alpha-beta Prunning Minmax Algorithm For Wolves Eats Sheep Game](https://github.com/alfreddLUO/AIAlgorithmForWolvesEatsSheepGame)
+  - [Alpha-beta Pruning Minmax Algorithm For Wolves Eats Sheep Game](https://github.com/alfreddLUO/AIAlgorithmForWolvesEatsSheepGame)
   - [Hierachical and K-Means Clustering Analysis](https://github.com/alfreddLUO/Hierachical_and_KMeansClustering_Analysis)
   - [Iterative A* Algrotirhm for FCND Motion Planning](https://github.com/alfreddLUO/FCND-Motion-Planning)
   - [GoGoEat Food Court Reservation System(Java)](https://github.com/alfreddLUO/CS3343-Project)
