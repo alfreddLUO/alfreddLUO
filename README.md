@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I am dedicated to utilizing my knowledge to make the world a better place**
 - My Projects:
-  - [Parallel Computing System for Bike Sharing Demand Dataset](https://github.com/alfreddLUO/Parallel-Computing-on-Bike-Sharing-Demand-Dataset)
+  - [Parallel Computing System for Machine Learning Analysis  on Bike Sharing Demand Dataset](https://github.com/alfreddLUO/Parallel-Computing-on-Bike-Sharing-Demand-Dataset)
   - [Skin Cancer Classification Project](https://github.com/alfreddLUO/CS4486-Skin-Cancer-Classification-Project)
   - [Alpha-beta Prunning Minmax Algorithm For Wolves Eats Sheep Game](https://github.com/alfreddLUO/AIAlgorithmForWolvesEatsSheepGame)
   - [Hierachical and K-Means Clustering Analysis](https://github.com/alfreddLUO/Hierachical_and_KMeansClustering_Analysis)
