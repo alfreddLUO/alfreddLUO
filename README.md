@@ -13,7 +13,7 @@
   - [Parallel Computing on Bike Sharing Demand Dataset](https://github.com/alfreddLUO/Parallel-Computing-on-Bike-Sharing-Demand-Dataset)
   - [Skin Cancer Classification Project](https://github.com/alfreddLUO/CS4486-Skin-Cancer-Classification-Project)
   - [Alpha-beta Prunning Minmax Algorithm For Wolves Eats Sheep Game](https://github.com/alfreddLUO/AIAlgorithmForWolvesEatsSheepGame)
-  - [Hierachical_and_KMeansClustering_Analysis](https://github.com/alfreddLUO/Hierachical_and_KMeansClustering_Analysis)
+  - [Hierachical and K-MeansClustering Analysis](https://github.com/alfreddLUO/Hierachical_and_KMeansClustering_Analysis)
   - [Iterative A* Algrotirhm for FCND Motion Planning](https://github.com/alfreddLUO/FCND-Motion-Planning)
   - [GoGoEat food court reservation system(Java)](https://github.com/alfreddLUO/CS3343-Project)
   - [Monte Carlo Tree Search Algorithm for a 6x6 chess game](https://github.com/alfreddLUO/CS4386AI-Game-Algorithm-HW1)
