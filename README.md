@@ -19,7 +19,7 @@
   - [Monte Carlo Tree Search Algorithm for a 6x6 Chess Game](https://github.com/alfreddLUO/CS4386AI-Game-Algorithm-HW1)
   - [Random Forest and Naive Bayes Classifier Analysis](https://github.com/alfreddLUO/Random-Forest-and-Naive-Bayes-Classifier-Analysis)
   - [Decision-Tree-Analysis](https://github.com/alfreddLUO/Decision-Tree-Analysis)
-  - [Object-Oriented Programming Practice for a Item Loan System](https://github.com/alfreddLUO/CS2312-Individual-Assignment)
+  - [Object-Oriented Programming Practice for an Item Loan System](https://github.com/alfreddLUO/CS2312-Individual-Assignment)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luo-alfred-peiyuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luo-alfred-peiyuan" height="30" width="40" /></a>
