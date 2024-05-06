@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfreddluo&label=Profile%20views&color=0e75b6&style=flat" alt="alfreddluo" /> </p>
 
 
-- 🔭 I’m currently working on [my FYP](https://github.com/alfreddLUO/FYP_Codes/tree/main)
 
 - 📫 How to reach me **alfredluopeiyuan@gmail.com**
 
