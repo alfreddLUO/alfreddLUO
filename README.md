@@ -1,5 +1,5 @@
 <h1 align="center">Hi World 👋, I'm Alfred LUO</h1>
-<h3 align="center">A passionate Software Engineer and a Master student in the University of Chicago.</h3>
+<h3 align="center">A passionate Software Engineer and a CS Master student in the University of Chicago. I completed my Bachelor's degree in Computer Science at City University of Hong Kong.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfreddluo&label=Profile%20views&color=0e75b6&style=flat" alt="alfreddluo" /> </p>
 
